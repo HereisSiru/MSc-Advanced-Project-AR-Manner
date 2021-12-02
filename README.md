@@ -4,5 +4,5 @@
 
 This is a demo for audiences to understand how does 'Manner' work.
 
-## video demo https://www.youtube.com/watch?v=HPrQL-jL-vU
-## more details 
+#### video demo https://www.youtube.com/watch?v=HPrQL-jL-vU
+#### more details 
