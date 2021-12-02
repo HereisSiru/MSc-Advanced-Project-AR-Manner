@@ -2,7 +2,6 @@
 
 ‘Manner’ focus on random and change as nature, imitating nature in its manner of operation.
 
-This is a demo for audiences to understand how does 'Manner' work.
 
 #### video demo https://www.youtube.com/watch?v=HPrQL-jL-vU
 #### more details 
