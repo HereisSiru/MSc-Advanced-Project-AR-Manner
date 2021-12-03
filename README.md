@@ -12,4 +12,3 @@
 
 
 In terms of design, 'Manner' explores the interaction between computational thinking and ancient China divination technique, trying to be inspired both conceptually and morphologically. Augmented reality adds more attractive user experience, generating new times divination experience. How to make the combination of divination and digital more interesting and naturally is the focus of design consideration.
-
