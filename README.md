@@ -26,6 +26,7 @@ divination barcode sample
 
 
 
+
 Divination is a globalized, time-honoured, and diverse cultural ritual, ancient Chinese people had developed divination 3600 years ago as recorded. 
 
 
